@@ -1,0 +1,10 @@
+URxvt.background: black
+URxvt.foreground: gray
+URxvt.transparent: True
+URxvt.scrollBar: False
+URxvt.scrollTtyOutput: False
+URxvt.saveLines: 10000
+URxvt.pastableTabs: True
+URxvt.pointerBlank: True
+URxvt.urlLauncher: firefox
+URxvt.visualBell: True
